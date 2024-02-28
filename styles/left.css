@@ -1,0 +1,26 @@
+/* FILEPATH: /home/gus/grantphllps.github.io/styles/left.css */
+
+.left-div {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 300px;
+  height: 100%;
+  background-color: #1D1D1D;
+}
+
+.body-div {
+  position: fixed;
+  left: 300px;
+  type: flex
+  top: 0;
+  width: calc(100% - 300px);
+  height: 100%;
+  background-color: white;
+}
+
+.image-container {
+  max-width: 100%;
+  height: auto;
+  
+  ;}
